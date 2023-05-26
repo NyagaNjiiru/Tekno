@@ -1,0 +1,1 @@
+mongodb+srv://tekno:Notepad1@cluster0.eu5i3gi.mongodb.net/?retryWrites=true&w=majority
